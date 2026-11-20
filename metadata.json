@@ -1,0 +1,6 @@
+{
+  "name": "Tracey Ager Aesthetics",
+  "description": "Advanced Aesthetics Clinic in Alwoodley, North Leeds offering Dermal Fillers, Medical Tattooing, and Electrolysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
